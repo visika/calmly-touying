@@ -463,7 +463,7 @@
 
 // Level 1: Filled circle
 #let bullet-circle(size: 6pt, color: accent-secondary) = {
-  circle(radius: size / 2, fill: color)
+  place(horizon+center, dy: 2mm, circle(radius: size / 2, fill: color))
 }
 
 // Level 2: Filled square
