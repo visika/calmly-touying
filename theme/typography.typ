@@ -37,8 +37,8 @@
 
 // Font families (prioritize installed fonts)
 #let font-heading = ("Source Sans 3", "Inter", "Noto Sans", "sans-serif")
-#let font-body = ("Source Sans 3", "Inter", "Noto Sans", "sans-serif")
-#let font-mono = ("JetBrains Mono", "Fira Code", "Noto Sans Mono", "monospace")
+#let font-body = ("Source Sans 3", "Inter", "Noto Sans")
+#let font-mono = ("JetBrains Mono", "Fira Code", "Noto Sans Mono")
 #let font-math = ("STIX Two Math", "Latin Modern Math")
 
 // Type scale - refined sizing with more contrast
